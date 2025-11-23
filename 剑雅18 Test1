@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IELTS Writing Practice - Test 18</title>
+    <style>
+        body {
+            font-family: "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f4f9;
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            border-bottom: 2px solid #2c3e50;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #2980b9;
+            margin-top: 40px;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+        }
+        h3 {
+            color: #16a085;
+            margin-top: 25px;
+        }
+        .section {
+            background: white;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+        }
+        .box {
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 15px;
+        }
+        .prompt {
+            background-color: #e8f6f3;
+            border-left: 5px solid #1abc9c;
+        }
+        .user-response {
+            background-color: #fcf3cf;
+            border-left: 5px solid #f1c40f;
+            font-style: italic;
+        }
+        .model-answer {
+            background-color: #eaf2f8;
+            border-left: 5px solid #3498db;
+        }
+        .feedback {
+            background-color: #fdedec;
+            border-left: 5px solid #e74c3c;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        ul {
+            margin-top: 0;
+        }
+        .badge {
+            display: inline-block;
+            padding: 5px 10px;
+            background-color: #34495e;
+            color: white;
+            border-radius: 4px;
+            font-size: 0.9em;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>IELTS Writing Assessment</h1>
+    <p style="text-align: center; color: #7f8c8d;">Test 18 Feedback & Corrections</p>
+
+    <div class="section">
+        <h2>Task 1: Urbanization in Asia <span class="badge">Score: 5.5</span></h2>
+
+        <div class="box prompt">
+            <strong>The Prompt:</strong><br>
+            The graph gives information about the percentage of the population in four Asian countries living in cities from 1970 to 2020, with predictions for 2030 and 2040.
+        </div>
+
+        <h3>Your Response</h3>
+        <div class="box user-response">
+            The graph presents the information abouth the percentage of the population in four Asian coutries from 1970 to 2020, with predictons for 2030 and 2040. <br><br>
+            In general, over decades of development, the population living in cities of four countries has went through a significant increase. In 2040, it is predicted that the urbanization rate in four countries will reached 40%, which almost doules the figures in 1970. From a more detailed view, it is obvious that Malaysia has witnessed the most raply increase in percentage of the urban population, from 30% in 1970 to nearly 70% in 2020 and is predicted to pass 80% in 2040. The rest coutries, Thailand, Indonesia and Philippines, also exhibit a evident tendency of increasing in population but the figures of urbanization are smaller than Malaysia. The increasing rate of Indonesia and Thailand are close to that of Malaysia, remaining positive over different time periods. On contrary, the urban population in Philippines underwent a fluctuated variance. Its percentage has rised since 1970 but decreased after 1990.
+        </div>
+
+        <h3>Critique & Corrections</h3>
+        <div class="box feedback">
+            <strong>Key Issues:</strong>
+            <ul>
+                <li><strong>Spelling:</strong> <em>abouth</em> (about), <em>coutries</em> (countries), <em>raply</em> (rapidly), <em>doules</em> (doubles).</li>
+                <li><strong>Grammar (Irregular Verbs):</strong> "has went" &rarr; "has gone"; "rised" &rarr; "rose".</li>
+                <li><strong>Grammar (Future Tense):</strong> "will reached" &rarr; "will reach".</li>
+                <li><strong>Data Accuracy:</strong> Failed to mention that Indonesia overtook Thailand and the Philippines.</li>
+            </ul>
+        </div>
+
+        <h3>Model Answer (Band 8.0+)</h3>
+        <div class="box model-answer">
+            The line graph illustrates the percentage of the population living in urban areas in four Asian nations (Philippines, Malaysia, Thailand, and Indonesia) from 1970 to 2020, with projections extending to 2040.
+            <br><br>
+            Overall, urbanization has increased in all four countries and is expected to continue rising, with Malaysia showing the most dramatic growth. While three countries show a steady upward trend, the Philippines is unique in experiencing a period of fluctuation.
+            <br><br>
+            Malaysia began with approximately 30% of its population in cities in 1970. It experienced a steep and consistent rise, reaching nearly 80% by 2020, with predictions suggesting it will exceed 80% by 2040. Indonesia followed a similar but less aggressive trajectory; starting at the lowest point (around 12%), it overtook Thailand in the 2000s and the Philippines around 2010, and is projected to reach roughly 60% by 2040.
+            <br><br>
+            In contrast, Thailand and the Philippines have seen slower growth. Thailand’s urban population rose gradually from roughly 18% to 30% by 2020. Meanwhile, the Philippines started with the highest urbanization rate in 1970 (32%) and peaked at nearly 50% in 1990. However, this figure dropped significantly to around 40% by 2010, before recovering. By 2040, both nations are predicted to have approximately 50% of their populations living in cities.
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Task 2: The Aim of Science <span class="badge">Score: 5.0 - 5.5</span></h2>
+
+        <div class="box prompt">
+            <strong>The Prompt:</strong><br>
+            The most important aim of science should be to improve people’s lives. To what extent do you agree or disagree?
+        </div>
+
+        <h3>Your Response</h3>
+        <div class="box user-response">
+            I totally agree with the view that the most critical goal of science should be to improve people's lives. <br><br>
+            First, all the scientific activities need the sponsorship from the society. If the purpose of a scientific study is not aimed for people's requirements, then it will be a complete waste of money from the taxpayers. It is the people who support the operation of scientific activities. Therefore, the science advancements should be, in turn, used to improve the living standards of people so that the society will be more willing to invest on universties and institutes that carries on the cutting-edged technologies.<br><br>
+            Second, the adancement of human civilization depends on the development of science. There is no doubt that the science is the most essential factor to promote the development of human's lives. In ancient time, the use of fire made we become strong and intelligent, conquering the surrounding animals and surviving from the ice ages. In modern era, the occurance of steam machine and electricity really transformed the way people live, which significantly promoted the efficiency of working and increased the happiness of people.<br><br>
+            Lastly, If the ultimate aim of science is not for people's lives, there will be no motivation of scientific activities. Despite that there might be a group of scientists working on the issues related to the curiosity of human, for example, the origin of the universe and life, most scientific staffs will not be able to prove the meanings and effectiveness of their research outcomes. The lack of the practical scientific researth is no doubt to be detrimental to the entire society.
+        </div>
+
+        <h3>Critique & Corrections</h3>
+        <div class="box feedback">
+            <strong>Key Issues:</strong>
+            <ul>
+                <li><strong>Structure (Critical):</strong> Word count is only ~190 words (minimum 250 required).</li>
+                <li><strong>Structure (Critical):</strong> No conclusion paragraph.</li>
+                <li><strong>Vocabulary:</strong> "invest on" &rarr; "invest in"; "steam machine" &rarr; "steam engine".</li>
+                <li><strong>Grammar:</strong> "made we become" &rarr; "made us become".</li>
+            </ul>
+        </div>
+
+        <h3>Model Answer (Band 8.0+)</h3>
+        <div class="box model-answer">
+            It is often argued that the ultimate objective of scientific inquiry should be the enhancement of human existence. I completely agree with this statement, as scientific progress depends on public funding and historically has been the primary catalyst for raising living standards.
+            <br><br>
+            Firstly, scientific research is largely sustained by societal support, specifically through taxation. As the general public finances universities and research institutes, there is an implicit social contract that this investment should yield returns in the form of practical solutions. If science were solely theoretical and ignored public needs—such as healthcare, infrastructure, or agriculture—it would be an unjustifiable use of taxpayer money. For instance, the massive global investment in pharmaceutical research is driven by the urgent need to cure diseases and extend human life expectancy.
+            <br><br>
+            Secondly, the history of human civilization demonstrates that science is most valuable when it solves physical problems. From the discovery of fire, which allowed early humans to survive harsh winters, to the invention of the steam engine and electricity, which revolutionized labor and productivity, science has consistently liberated humanity from hardship. Without these practical applications, human life would still be defined by a struggle for basic survival. Therefore, continuing this trajectory of practical improvement is essential for future prosperity.
+            <br><br>
+            Finally, focusing on improving lives provides the necessary motivation and direction for scientific pursuit. While curiosity regarding the origins of the universe is valuable, science without a humanitarian aim risks becoming aimless or even dangerous. When scientists focus on solving real-world issues, such as climate change or food scarcity, their work gains moral purpose and urgency, driving faster innovation.
+            <br><br>
+            In conclusion, I strongly believe that while the pursuit of knowledge is noble, the primary aim of science must be to serve humanity. By focusing on practical improvements, science validates the public's investment and ensures the continued advancement of our quality of life.
+        </div>
+    </div>
+
+</body>
+</html>
